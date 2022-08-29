@@ -1,3 +1,6 @@
+<link rel="stylesheet" href="css/style.css">
+<script src="js/script.js"></script>
+
 <?php
 #Comentario
 // Comentario
@@ -21,7 +24,7 @@ $media = $soma / 2;
 $multiplicacao = $prova1 * $prova2;
 $subtração = $prova1 - $prova2;
 
-CONST NOMECOMPLETO = "FERNANDO CESAR GRACIANO";
+CONST NOMECOMPLETO = "JOHNNY RODRIGUES EVANGELISTA";
 echo "<p>". NOMECOMPLETO. "<p>";
 
 $faltas = 21;
